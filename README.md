@@ -1,6 +1,6 @@
 # 👋 Hi, I'm YeoChan Youn (윤여찬) 
 
-🚀 **Tech PM & Developer** | Passionate about **Flutter**, **Vue3**, and **Node.js**  
+🚀 **Tech PM & FE & Developer** | Passionate about **Flutter**, **Vue3**, **Vue2**, **React**, and **Node.js**  
 📍 Currently working on an **AI-powered Fitness App**  
 🎯 Focused on **Backend Architecture, Cloud, and Full-Stack Development**  
 
