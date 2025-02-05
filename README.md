@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YeoChan Yoon (윤여찬) 
+# 👋 Hi, I'm YeoChan Youn (윤여찬) 
 
 🚀 **Tech PM & Developer** | Passionate about **Flutter**, **Vue3**, and **Node.js**  
 📍 Currently working on an **AI-powered Fitness App**  
@@ -13,18 +13,6 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
----
-
-## 📌 Projects
-- 🏋️ **[Health & Fitness App](https://github.com/yourproject)** (Flutter + Vue3 + Node.js)  
-  - Features: **Workout Tracking, Routine Management, Video Guides**
-  - Backend: **Node.js, Nuxt.js, Firebase**
-  - Deployment: **AWS, Ubuntu Linux**
-
-- ⚡ **[Fake Data API Server](https://github.com/yourproject)** (For testing & development)
-  - Using **Express.js** to generate fake API data
-  - Dockerized for **scalable deployment**
 
 ---
 
