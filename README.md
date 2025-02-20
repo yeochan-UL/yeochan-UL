@@ -20,7 +20,7 @@
 
 
 🖥 **Frontend:** JavaScript (ES6+), Vue.js 2/3, TypeScript, Flutter  
-⚡ **Backend:** Node.js, Express, Nuxt.js  
+⚡ **Backend:** Node.js, Express, Nuxt.js, next.js,   
 📡 **Networking:** Socket.io (실시간 통신), SSE (일방향 통신)  
 📊 **Data Management:** Vuex, Pinia, Riverpod  
 🔗 **API:** Axios 기반 다수의 API 연동 경험  
@@ -30,6 +30,17 @@
 
 ## 📌 프로젝트 경험
 
+### 🦺 [도면관리 시스템, Aviewer]
+🗓 **2020.02 ~ 2021.05 (15개월) | 포스코, SK 에코플랜트, 현대 오토에버**  
+📌 PPT, photoshop illustration
+🚀 **주요 역할:** 서비스 기획, 운영, 인사 담당, 총괄   
+
+✅ **성과:**  
+- 포스코 B2C 방식으로 운영
+- SK 에코플랜트, 현대 오토에버 B2B 방식으로 운영
+
+---
+
 ### 🚗 [명지대 자율 주행 차량 모니터링 대시보드]
 🗓 **2022.02 ~ 2022.09 (7개월) | 명지대학교, 이지트래픽**  
 📌 Vue2, JavaScript, Node.js, React.js, next.js
@@ -38,6 +49,9 @@
 ✅ **성과:**  
 - 자율 주행 차량 데이터와 교차로 데이터를 결합하여 실시간 교통 흐름 분석  
 - 신호 주기에 따른 차량 이동 예측 및 관리 방안 도출  
+  
+🎉 **출시정보:**  
+관련기사: https://www.incheonin.com/news/articleView.html?idxno=92829  
 
 ---
 
