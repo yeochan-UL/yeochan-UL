@@ -89,6 +89,8 @@
 
 ### 🛢 [OilfiedNEX 미국 유전 관리 시스템]
 🗓 **2024.06 ~ 2025.02 | 울랄라랩**  
+🍎 https://apps.apple.com/us/app/oilfieldnex/id6742073504
+👋 https://play.google.com/store/apps/details?id=com.ulalalab.oilfieldNEX&pcampaignid=web_share
 📌 Flutter, Vue3, AWS  
 🚀 **주요 역할:** Flutter WebView 전환 및 Vue3 프론트엔드 총괄  
 
