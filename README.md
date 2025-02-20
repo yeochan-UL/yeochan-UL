@@ -117,7 +117,8 @@
 ✅ **성과:**  
 - Flutter 기반 크로스 플랫폼 안드로이드 & iOS 개발 진행  
 - WebView 방식으로 네이티브 앱을 개발하여 효율적인 유지보수 지원  
-- AWS 클라우드 자동화 프로세스 구축  
+- AWS 클라우드 자동화 프로세스 구축
+  
 🎉 **출시정보:**  
 🍎 https://apps.apple.com/us/app/oilfieldnex/id6742073504  
 👋 https://play.google.com/store/apps/details?id=com.ulalalab.oilfieldNEX&pcampaignid=web_share  
