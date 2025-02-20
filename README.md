@@ -39,8 +39,7 @@
 - 포스코 B2C 방식으로 운영
 - SK 에코플랜트, 현대 오토에버 B2B 방식으로 운영  
   
-🎉 **출시정보:**  
-관련 사이트
+🎉 **관련 사이트:**  
 - https://www.incheonin.com/news/articleView.html?idxno=92829
 - https://www.hdec.kr/kr/newsroom/news_view.aspx?NewsSeq=33&NewsType=JOURNAL&NewsListType=news_clist
 - https://www.youtube.com/watch?v=cQBW9RIWG7Y
