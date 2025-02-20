@@ -37,7 +37,13 @@
 
 ✅ **성과:**  
 - 포스코 B2C 방식으로 운영
-- SK 에코플랜트, 현대 오토에버 B2B 방식으로 운영
+- SK 에코플랜트, 현대 오토에버 B2B 방식으로 운영  
+  
+🎉 **출시정보:**  
+관련 사이트
+- https://www.incheonin.com/news/articleView.html?idxno=92829
+- https://www.hdec.kr/kr/newsroom/news_view.aspx?NewsSeq=33&NewsType=JOURNAL&NewsListType=news_clist
+- https://www.youtube.com/watch?v=cQBW9RIWG7Y
 
 ---
 
@@ -48,10 +54,7 @@
 
 ✅ **성과:**  
 - 자율 주행 차량 데이터와 교차로 데이터를 결합하여 실시간 교통 흐름 분석  
-- 신호 주기에 따른 차량 이동 예측 및 관리 방안 도출  
-  
-🎉 **출시정보:**  
-관련기사: https://www.incheonin.com/news/articleView.html?idxno=92829  
+- 신호 주기에 따른 차량 이동 예측 및 관리 방안 도출
 
 ---
 
