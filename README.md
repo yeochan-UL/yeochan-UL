@@ -141,6 +141,19 @@
 
 ---
 
+### 🖥️ [오늘, 내일 자바스크립트 문제 구독 시스템 개발]
+🗓 **2025.04 | 개인 프로젝트**  
+📌 React, javascript, node.js
+🚀 **주요 역할:** 네이버 클라우드 콘솔 서버 구현, 리엑트 19버전을 활용하여, 스타일드 컴포넌트로 웹 구독 서비스 구현
+
+✅ **성과:**  
+- 개인 프로젝트 진행 후 도메인 구매 연결로 마케팅 준비중
+  
+🎉 **출시정보:**  
+👋 https://www.todaytomorrow.today
+
+---
+
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducks0413@naver.com)
 
