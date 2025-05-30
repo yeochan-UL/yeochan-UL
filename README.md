@@ -154,6 +154,19 @@
 
 ---
 
+---
+
+### 🔧 [차세대 체결 공구 Tool 연결 개발]
+🗓 **2025.05.20 ~ 2025.05.30 (10일) | 울랄라랩**  
+📌 Vue3, JavaScript, Sass, javascript socket  
+🚀 **주요 역할:** 화면 설계 및 서비스 개발  
+
+✅ **성과:**  
+- 잉가솔랜드, 한타스, 보쉬 공구 기기를 여러대 붙여 작업대의 통신, 대시보드 제작, 소켓 연결, 관리   
+- soket으로 동시 작업에 대한 기능 향상, 서비스 개발을 통한 고객 만족도 증가  
+
+---
+
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ducks0413@naver.com)
 
